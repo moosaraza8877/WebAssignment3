@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "Open Sans";
+    src: url("Fonts/OpenSans-Regular.ttf");
+}
+.outer_footer{
+    height: 44px;
+    margin: -212px -8px 0px -8px;
+    background-color: #316dc3;
+}
+.sentence{
+    color: white;
+    font-size: 11px;
+    position: relative;
+    top: 14px;
+    padding-left: 100px;
+}

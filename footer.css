@@ -1,0 +1,177 @@
+@font-face{
+    font-family: "Open Sans";
+    src: url("Fonts/OpenSans-Regular.ttf");
+}
+@font-face{
+    font-family: "Source Serif";
+    src: url("Fonts/SourceSerifPro-Regular.ttf");
+}
+.footer{
+    height: 358px;
+    position: relative;
+    top: -200px;
+    margin: 0px -8px;
+    background-color: rgb(37, 39, 46);
+}
+.address_line{
+    color: rgb(179, 179, 180);
+    font-size: 14px;
+    font-family: "Open Sans";
+    padding-left: 100px;
+    padding-top: 87px;
+    line-height: 23px;
+}
+.tele_one{
+    width: 23px;
+    position: relative;
+    left: 99px;
+    top: -2px;
+}
+.tele_one_para{
+    font-size: 14px;
+    color: rgb(179, 179, 180);
+    font-family: "Open Sans";
+    padding-left: 123px;
+    position: relative;
+    top: -40px;
+}
+.tele_two{
+    width: 23px;
+    position: relative;
+    left: 99px;
+    top: -47px;
+}
+.tele_two_para{
+    font-size: 14px;
+    color: rgb(179, 179, 180);
+    font-family: "Open Sans";
+    padding-left: 123px;
+    position: relative;
+    top: -85px;
+}
+.tele_three{
+    width: 23px;
+    position: relative;
+    left: 99px;
+    top: -92px;
+}
+.tele_three_para{
+    font-size: 14px;
+    color: rgb(179, 179, 180);
+    font-family: "Open Sans";
+    padding-left: 123px;
+    position: relative;
+    top: -131px;
+}
+.tele_four{
+    width: 23px;
+    position: relative;
+    left: 99px;
+    top: -139px;
+}
+.tele_four_para{
+    font-size: 14px;
+    color: rgb(179, 179, 180);
+    font-family: "Open Sans";
+    padding-left: 123px;
+    position: relative;
+    top: -177px;
+}
+.envelope{
+    width: 23px;
+    position: relative;
+    left: 100px;
+    top: -180px;
+}
+.envelope_para{
+    font-size: 14px;
+    color: rgb(179, 179, 180);
+    font-family: "Open Sans";
+    padding-left: 126px;
+    position: relative;
+    top: -218px;
+}
+.world{
+    width: 23px;
+    position: relative;
+    left: 262px;
+    top: -366px;
+}
+.world_para{
+    font-size: 14px;
+    color: rgb(179, 179, 180);
+    font-family: "Open Sans";
+    padding-left: 286px;
+    position: relative;
+    top: -406px;
+}
+.use_name{
+    color: white;
+    font-family: "Source Serif";
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 500px;
+    position: relative;
+    top: -520px;
+}
+.line_one{
+    border: 1px solid rgb(66, 121, 0);
+    width: 50px;
+    position: relative;
+    top: -528px;
+    right: 150px;
+}
+.line_two{
+    border-color: rgb(247, 248, 250);
+    width: 310px;
+    position: relative;
+    top: -538px;
+    left: 31px;
+    opacity: 0.1;
+}
+.cwu{
+    color: white;
+    font-family: "Source Serif";
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 893px;
+    position: relative;
+    top: -590px;
+}
+.footer .fa{
+    overflow: hidden;
+    padding: 8px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    bottom: 539px;
+    left: 790px;
+}
+.footer .fa-facebook{
+    margin-left: 102px;
+    background-color: #316dc3;
+    color: white;
+    border-radius: 50%;
+}
+.footer .fa-twitter{
+    margin-left: 9px;
+    background-color: #316dc3;
+    color: white;
+    border-radius: 50%;
+}
+.footer .fa-instagram{
+    margin-left: 9px;
+    background-color: #316dc3;
+    color: white;
+    border-radius: 50%;
+}
+.footer .fa-youtube{
+    margin-left: 9px;
+    background-color: #316dc3;
+    color: white;
+    border-radius: 50%;
+}
+.footer .fa:hover{
+    background-color: rgb(55, 109, 215);
+}

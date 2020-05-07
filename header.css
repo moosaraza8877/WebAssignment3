@@ -1,0 +1,93 @@
+@font-face{
+    font-family: "Open Sans";
+    src: url("Fonts/OpenSans-Regular.ttf");
+}
+*{
+    font-family: "Open Sans";
+}
+.header{
+    margin: -14px -8px;
+    height: 48px;
+    background-color: #316dc3;
+}
+.fa{
+    overflow: hidden;
+    padding: 8px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: -54px 0px 60px 0px; 
+}
+.fa-facebook{
+    margin-left: 102px;
+    background-color: #316dc3;
+    color: white;
+}
+.fa-twitter{
+    margin-left: 9px;
+    background-color: #316dc3;
+    color: white;
+}
+.fa-instagram{
+    margin-left: 9px;
+    background-color: #316dc3;
+    color: white;
+}
+.fa-youtube{
+    margin-left: 9px;
+    background-color: #316dc3;
+    color: white
+}
+.fa-whatsapp{
+    margin-left: 9px;
+    background-color: #316dc3;
+    color: white;
+}
+.fa:hover{
+    background-color: rgb(55, 109, 215);
+}
+.para{
+    color: white;
+    padding: 14px 0px;
+    padding-left: 431.5px;
+    font-size: 14px;
+}
+.uk_donor{
+    cursor: pointer;
+    vertical-align: middle;
+    margin: -45px 0px 0px 979px;
+    font-size: 10.75px;
+    padding: 6px 10.5px 6px 10.5px;
+    border: 1px solid #187139;
+    background-color: whitesmoke;
+}
+.uk_donor a{
+    text-decoration: none;
+    color: #187139;
+}
+.donate_now{
+    vertical-align: middle;
+    margin: -45px 0px 0px 0.25px;
+    cursor: pointer;
+    border: 1px solid #187139;
+    background-color: whitesmoke;
+    font-size: 10.75px;
+    padding: 6px 9.87px 6px 9.87px;
+}
+.donate_now a{
+    text-decoration: none;
+    color: #187139;
+}
+.smit_results{
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid #187139;
+    background-color: whitesmoke;
+    margin: -45px 0px 0px 0.25px;
+    font-size: 10.75px;
+    padding: 6px 9.90px 6px 9.90px;
+}
+.smit_results a{
+    text-decoration: none;
+    color: #187139;
+}

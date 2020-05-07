@@ -1,0 +1,173 @@
+@font-face{
+    font-family: "Source Serif";
+    src: url("Fonts/SourceSerifPro-Regular.ttf");
+}
+body{
+    background-color: rgb(247, 248, 250);
+}
+.after_intro{
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.wwad{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    font-family: "Source Serif";
+    color: #316dc3;
+    font-size: 35px;
+}
+.wwad span{
+    font-family: "Source Serif";
+    color: rgb(66, 121, 0);
+}
+.wwad_emblem{
+    width: 160px;
+    position: relative;
+    left: 595px;
+    top: 3px;
+}
+.sadqah_div{
+    box-shadow: 2px 2px 22px rgb(218, 219, 220);
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    position: relative;
+    left: 109px;
+    top: 28px;
+}
+.sadqah{
+    cursor: pointer;
+    position: relative;
+    top: 25px;
+    left: 135px;
+}
+.sadqah_line{
+    font-family: "Source Serif";
+    color: #316dc3;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 19px;
+    left: 95px;
+}
+.dastarkhwan_div{
+    box-shadow: 2px 2px 22px rgb(218, 219, 220);
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    position: relative;
+    left: 109px;
+    top: 56px;
+}
+.dastarkhwan{
+    cursor: pointer;
+    position: relative;
+    top: 27px;
+    left: 137px;
+}
+.dastarkhwan_line{
+    font-family: "Source Serif";
+    color: #316dc3;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 21px;
+    left: 98px;
+}
+.welfare_div{
+    box-shadow: 2px 2px 22px rgb(218, 219, 220);
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    position: relative;
+    left: 490px;
+    top: -332px;
+}
+.welfare{
+    cursor: pointer;
+    position: relative;
+    top: 30px;
+    left: 137px;
+}
+.welfare_line{
+    font-family: "Source Serif";
+    color: #316dc3;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 28px;
+    left: 129px;
+}
+.roPlant_div{
+    box-shadow: 2px 2px 22px rgb(218, 219, 220);
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    position: relative;
+    left: 490px;
+    top: -304px;
+}
+.roPlant{
+    cursor: pointer;
+    position: relative;
+    top: 22px;
+    left: 137px;
+}
+.roPlant_line{
+    font-family: "Source Serif";
+    color: #316dc3;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 9px;
+    left: 129px;
+}
+.medical_div{
+    box-shadow: 2px 2px 22px rgb(218, 219, 220);
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    position: relative;
+    left: 870px;
+    top: -692px;
+}
+.medical{
+    cursor: pointer;
+    position: relative;
+    top: 26px;
+    left: 137px;
+}
+.medical_line{
+    font-family: "Source Serif";
+    color: #316dc3;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 98px;
+    left: 129px;
+}
+.Education_div{
+    box-shadow: 2px 2px 22px rgb(218, 219, 220);
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    position: absolute;
+    top: 2076px;
+    left: 879px;
+}
+.Education{
+    cursor: pointer;
+    position: absolute;
+    top: 24px;
+    left: 148px;
+}
+.Education_line{
+    font-family: "Source Serif";
+    color: #316dc3;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 96px;
+    left: 119px;   
+}

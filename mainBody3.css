@@ -1,0 +1,209 @@
+@font-face{
+    font-family: "Source Serif";
+    src: url("Fonts/SourceSerifPro-Regular.ttf");
+}
+.mainThree{
+    background-color: white;
+    margin: -430px -8px 0px -8px;
+    padding-left: 115px;
+    padding-top: 40px;
+    /* padding-bottom: 50px; */
+    overflow: hidden;
+}
+.mission{
+    font-family: "Source Serif";
+    font-weight: bold;
+    font-size: 26px;
+    color: #316dc3;
+}
+.short_line{
+    border: 1px solid green;
+    width: 46px;
+    position: relative;
+    left: -591px;
+    top: -12px;
+}
+.hepatitis_div{
+    box-shadow: inset 0px 0px 1px grey;
+    width: 358px;
+    height: 78px;
+    background-color: rgb(247, 248, 250);
+    position: relative;
+    top: 8px;
+}
+.hepatitis{
+    position: relative;
+    top: 21px;
+    left: 15px;
+    cursor: pointer;
+}
+.hepatitis_line{
+    color: #316dc3;
+    font-weight: bold;
+    font-family: "Source Serif";
+    font-size: 17px;
+    position: relative;
+    top: -23px;
+    left: 80px;
+}
+.housing_div{
+    box-shadow: inset 0px 0px 1px grey;
+    width: 358px;
+    height: 78px;
+    background-color: rgb(247, 248, 250);
+    position: relative;
+    left: 388px;
+    top: -70px;
+}
+.housing{
+    position: relative;
+    top: 14px;
+    left: 14px;
+    cursor: pointer;
+}
+.housing_line{
+    color: #316dc3;
+    font-weight: bold;
+    font-family: "Source Serif";
+    font-size: 17px;
+    position: relative;
+    top: -35px;
+    left: 78px;
+}
+.IT_div{
+    box-shadow: inset 0px 0px 1px grey;
+    width: 358px;
+    height: 78px;
+    background-color: rgb(247, 248, 250);
+    position: relative;
+    left: 0px;
+    top: -50px;
+}
+.IT{
+    position: relative;
+    top: 18px;
+    left: 14px;
+    cursor: pointer;
+}
+.IT_line{
+    color: #316dc3;
+    font-weight: bold;
+    font-family: "Source Serif";
+    font-size: 17px;
+    position: relative;
+    top: -30px;
+    left: 81px;
+}
+.tharparkar_div{
+    box-shadow: inset 0px 0px 1px grey;
+    width: 358px;
+    height: 78px;
+    background-color: rgb(247, 248, 250);
+    position: relative;
+    left: 389px;
+    top: -128px;
+}
+.tharparkar{
+    position: relative;
+    top: 18px;
+    left: 14px;
+    cursor: pointer;
+}
+.tharparkar_line{
+    color: #316dc3;
+    font-weight: bold;
+    font-family: "Source Serif";
+    font-size: 17px;
+    position: relative;
+    top: -26px;
+    left: 81px;
+}
+.upcoming_div{
+    display: inline-block;
+    position: relative;
+    left: 774px;
+    top: -400px;
+}
+.upcoming{
+    font-family: "Source Serif";
+    font-weight: bold;
+    font-size: 26px;
+    color: #316dc3;
+}
+.short_line1{
+    width: 46px;
+    position: relative;
+    left: -136px;
+    top: -10px;
+    border: 1px solid green;
+}
+.short_line2{
+    width: 320px;
+    position: relative;
+    left: 50px;
+    top: -19px;
+    border-color: rgb(247, 248, 250);
+    opacity: 0.2;
+}
+.upcoming_marquee{
+    height: 210px;
+    width: 250px;
+    position: relative;
+    left: 4px;
+    color: rgb(112, 112, 112);
+    font-size: 14px;
+    line-height: 23px;
+}
+.news a{
+    text-decoration: none;
+    color: #316dc3;
+}
+.image_div{
+    margin-left: -115px;
+    position: relative;
+    top: -320px;
+    text-align: center;
+}
+.image_gallery{
+    font-size: 35px;
+    color: #316dc3;
+    font-family: "Source Serif";
+}
+.image_gallery span{
+    color: rgb(66, 121, 0);
+    font-family: "Source Serif";
+}
+.design{
+    width: 160px;
+    position: relative;
+    top: -19px;
+}
+.gallery_div{
+    margin-left: -115px;
+    position: relative;
+    top: -320px;
+}
+.i_one{
+    padding-left: 96px;
+    width: 230px;
+}
+.i_two{
+    position: relative;
+    left: -2px;
+    width: 230px;
+}
+.i_three{
+    position: relative;
+    left: -4px;
+    width: 230px;
+}
+.i_four{
+    position: relative;
+    left: -6px;
+    width: 230px;
+}
+.i_five{
+    position: relative;
+    left: -9px;
+    width: 230px;
+}
